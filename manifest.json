@@ -1,0 +1,39 @@
+{
+    "name": "tic-tac-toe",
+    "short_name": "X-n-O",
+    "start_url": "/tic-tac-toe",
+    "background_color": "red",
+    "theme_color": "coral",
+    "display": "standalone",
+    "description": "By Vipul Tawar",
+    "icons": [
+        {
+            "src": "./assets/Icon-36.png",
+            "sizes": "36x36"
+        },
+        {
+            "src": "./assets/Icon-48.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "./assets/Icon-72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "./assets/Icon-96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "./assets/Icon-144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "./assets/Icon-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "assets/Icon-512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
